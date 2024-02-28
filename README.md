@@ -1,3 +1,5 @@
+frontend :https://github.com/prajwalsable99/Inst-clone-fronted-end
+
 ![Screenshot 1](outputs/Capture1.JPG)
 ![Screenshot 2](outputs/Capture2.JPG)
 ![Screenshot 3](outputs/Capture3.JPG)
