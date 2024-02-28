@@ -1,4 +1,8 @@
-frontend :https://github.com/prajwalsable99/Inst-clone-fronted-end
+frontend :
+### Frontend Repository
+
+To access the frontend codebase separately, you can navigate to our dedicated frontend repository. 
+[Click here to visit the frontend repository](https://github.com/prajwalsable99/Inst-clone-fronted-end).
 
 ![Screenshot 1](outputs/Capture1.JPG)
 ![Screenshot 2](outputs/Capture2.JPG)
